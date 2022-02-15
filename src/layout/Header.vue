@@ -3,7 +3,7 @@
     <div class="flex">
       <router-link to="/">
         <img
-          src="../assets/icons/logo.svg"
+          src="../assets/logo.svg"
           alt="Logo"
         >
       </router-link>
