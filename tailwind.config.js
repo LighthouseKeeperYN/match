@@ -14,6 +14,10 @@ module.exports = {
         body: ['Roboto', 'Helvetica', 'sans-serif'],
         display: ['Roboto', 'Helvetica', 'sans-serif'],
       },
+      colors: {
+        orange: '#F6CA65',
+        blue: '#005B96',
+      }
     },
   }
 }
